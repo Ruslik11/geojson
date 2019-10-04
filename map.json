@@ -4,9 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-        "City": "Ратне",
         "people": 32,
-        "dіalnіst": "АТО"
+        "dіalnіst": "АТО",
+        "city": "Ратне"
       },
       "geometry": {
         "type": "Polygon",
@@ -39,9 +39,9 @@
     {
       "type": "Feature",
       "properties": {
-        "City": "Камінь-Каширський",
         "people": 345,
-        "dіalnіst": "Громада"
+        "dіalnіst": "Громада",
+        "city": "Камінь-Каширський"
       },
       "geometry": {
         "type": "Polygon",
@@ -74,9 +74,9 @@
     {
       "type": "Feature",
       "properties": {
-        "City": "Ковель",
         "people": 234211,
-        "dіalnіst": "Здоров'я"
+        "dіalnіst": "Здоров'я",
+        "city": "Ковель"
       },
       "geometry": {
         "type": "Polygon",
@@ -109,9 +109,9 @@
     {
       "type": "Feature",
       "properties": {
-        "City": "Маневичі",
         "people": 123,
-        "dіalnіst": "Громада"
+        "dіalnіst": "Громада",
+        "city": "Маневичі"
       },
       "geometry": {
         "type": "Polygon",
@@ -172,9 +172,9 @@
     {
       "type": "Feature",
       "properties": {
-        "City": "Любешів",
         "people": 345345,
-        "dіalnіst": "АТО"
+        "dіalnіst": "АТО",
+        "city": "Любешів"
       },
       "geometry": {
         "type": "Polygon",
