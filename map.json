@@ -6,7 +6,7 @@
       "properties": {
         "City": "Ратне",
         "people": 32,
-        "діяльність": "АТО"
+        "dіalnіst": "АТО"
       },
       "geometry": {
         "type": "Polygon",
@@ -41,7 +41,7 @@
       "properties": {
         "City": "Камінь-Каширський",
         "people": 345,
-        "діяльність": "Громада"
+        "dіalnіst": "Громада"
       },
       "geometry": {
         "type": "Polygon",
@@ -76,7 +76,7 @@
       "properties": {
         "City": "Ковель",
         "people": 234211,
-        "діяльність": "Здоров'я"
+        "dіalnіst": "Здоров'я"
       },
       "geometry": {
         "type": "Polygon",
@@ -111,7 +111,7 @@
       "properties": {
         "City": "Маневичі",
         "people": 123,
-        "діяльність": "Громада"
+        "dіalnіst": "Громада"
       },
       "geometry": {
         "type": "Polygon",
@@ -174,7 +174,7 @@
       "properties": {
         "City": "Любешів",
         "people": 345345,
-        "діяльність": "АТО"
+        "dіalnіst": "АТО"
       },
       "geometry": {
         "type": "Polygon",
