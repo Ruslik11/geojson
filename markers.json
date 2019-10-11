@@ -1,1 +1,19 @@
-
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ring",
+        "gallery": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.351654887199402,
+          50.74408325560829
+        ]
+      }
+    }
+  ]
+}
