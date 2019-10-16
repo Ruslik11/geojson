@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "title": "Ring",
-        "gallery": ""
+        "gallery": "link"
       },
       "geometry": {
         "type": "Point",
