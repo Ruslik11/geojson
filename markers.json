@@ -28,6 +28,20 @@
           51.21398098948744
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ратне",
+        "gallery": "image"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.534187316894528,
+          51.66072360943896
+        ]
+      }
     }
   ]
 }
